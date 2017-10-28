@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Username
+name: Samuel da Silva Oliveira
 
 # Short bio or description (displayed in the header)
-description: Programmer From Somewhere On Earth
+description: Desenvolvedor Full Stack e aprendiz no Data Science.
 
 
 #
@@ -16,12 +16,12 @@ description: Programmer From Somewhere On Earth
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: agarwal.akshay.akshay8@gmail.com
-  facebook:
+  email: sanuel10@live.com
+  facebook: samukaunt
   flickr:
-  github: AkshayAgarwal007
+  github: samukaunt
   instagram:
-  linkedin: akshay-agarwal-782018a4
+  linkedin: samuel-oliveira-74278873
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
@@ -70,7 +70,7 @@ sass:
 # Use the following plug-ins
 plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+#  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
 # Exclude these files from your production _site
 exclude:
